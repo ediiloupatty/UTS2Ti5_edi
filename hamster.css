@@ -1,0 +1,10 @@
+#container-gambar {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+  }
+  
+  hr {
+    margin-top: 20px;
+  }
+  
